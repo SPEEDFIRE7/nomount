@@ -34,7 +34,7 @@ const LOCALE_NAMES = {
     ar: 'العربيه'
     ar-dz: 'العربية (الدارجة الجزائرية)'
 };
-const RTL_LOCALES = new Set(['ar']);
+const RTL_LOCALES = new Set(['ar', 'ar-dz']);
 
 const numberFormatterCache = Object.create(null);
 

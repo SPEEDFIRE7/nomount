@@ -32,7 +32,7 @@ const LOCALE_NAMES = {
     bn: 'বাংলা',
     ja: '日本語',
     ar: 'العربيه'
-    ar-dz: ')الدارجة الجزائرية)العربيه'
+    ar-dz: العربية (الدارجة الجزائرية)
 };
 const RTL_LOCALES = new Set(['ar']);
 
